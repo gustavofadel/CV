@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"Gustavo Fadel",
+    "description":"Gustavo Henrique Franco Fadel - 3º AI",
+    "image":"profilepic.jpg",
+    "bio":"Sou apenas uma pessoa de 16 anos que está começando a se interessar pela área de programação e desejar ajudar pessoas por meio de tecnologias.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "gustavohenriquefrancofadel@gmail.com",
+    "phone": "Mobile/WhatsApp: 98194-5502",
+    "address":{
+      "street":"Rua Franz Schubert, 840 - Flores",
+      "city":"Manaus",
+      "state":"AM"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/gustavofadel_",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/gustavofadel",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Fundação Matias Machline",
+        "degree":"Ensino Médio",
+        "graduated":"2017-2019"
+      },
+      {
+        "school":"Centro Educacional Lato Sensu",
+        "degree":"Ensino Fundamental",
+        "graduated":"2012-2016"
+      },
+      {
+        "school":"Educação Adventista",
+        "degree":"Ensino Fundamental",
+        "graduated":"2010-2011"
+      },
+      {
+        "school":"Instituto Batista Ida Nelson",
+        "degree":"Ensino Fundamental",
+        "graduated":"2009"
+      }
+    ],
+    "work":[
+      {
+        "company":"Fundação Matias Machline",
+        "title":"Monitor de Biologia",
+        "years":"2017",
+        "description":"Ajudar os alunos com dificuldade na matéria."
+      },
+      {
+        "company":"Fundação Matias Machline",
+        "title":"Monitor de Química",
+        "years":"2017",
+        "description":"Ajudar os alunos com dificuldade na matéria."
+      },
+      {
+        "company":"Fundação Matias Machline",
+        "title":"Escritor de Contos",
+        "years":"2018",
+        "description":"Escrever contos para o blog da turma (Moetá da Literatura)."
+      },
+      {
+        "company":"Fundação Matias Machline",
+        "title":"Desenvolvedor do Aphore",
+        "years":"2019",
+        "description":"Ajudar no desenvolvimento do Aphore (um mini-projeto para ajudar o professor Marlon em uma de suas atividades)."
+      },
+      {
+        "company":"Fundação Matias Machline",
+        "title":"Desenvolvedor do Araceli",
+        "years":"2019",
+        "description":"Desenvolver o projeto de conclusão de curso."
+      },
+      {
+        "company":"Fundação Matias Machline",
+        "title":"Desenvolvedor Voluntário",
+        "years":"2019",
+        "description":"Ajudar no desenvolvimento de projetos na parceria FMM X TCE."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Português",
+        "level":"99%"
+      },
+      {
+        "name":"Inglês",
+        "level":"95%"
+      },
+      {
+        "name":"Francês",
+        "level":"10%"
+      },
+      {
+        "name":"C",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"50%"
+      }
+    ]
+  }
+}
